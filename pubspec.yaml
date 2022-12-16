@@ -39,7 +39,7 @@ dependencies:
   dio:
   bloc:
   flutter_bloc:
-
+  shared_preferences:
 dev_dependencies:
   flutter_test:
     sdk: flutter
